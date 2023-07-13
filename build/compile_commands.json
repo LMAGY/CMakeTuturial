@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/liuyu/MoreThanCoding/build",
-  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/Memory_Pool.dir/main.cpp.o -c /Users/liuyu/MoreThanCoding/Memory_Pool/main.cpp",
-  "file": "/Users/liuyu/MoreThanCoding/Memory_Pool/main.cpp",
-  "output": "CMakeFiles/Memory_Pool.dir/main.cpp.o"
-}
-]
