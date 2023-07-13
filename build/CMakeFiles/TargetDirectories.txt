@@ -1,0 +1,3 @@
+/Users/liuyu/MoreThanCoding/build/CMakeFiles/Memory_Pool.dir
+/Users/liuyu/MoreThanCoding/build/CMakeFiles/edit_cache.dir
+/Users/liuyu/MoreThanCoding/build/CMakeFiles/rebuild_cache.dir

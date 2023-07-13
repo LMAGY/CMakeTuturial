@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/liuyu/CLionProjects/Memory_Pool/cmake-build-debug",
-		"source" : "/Users/liuyu/CLionProjects/Memory_Pool"
+		"build" : "/Users/liuyu/CMakeTuturial/Memory_Pool/cmake-build-debug",
+		"source" : "/Users/liuyu/CMakeTuturial/Memory_Pool"
 	},
 	"version" : 
 	{
